@@ -1,0 +1,16 @@
+#: locale=tr
+
+## Media
+
+### Title
+model_AC247B03_BC53_81BB_41E7_6DF86B5BE969.label = 7
+panorama_AF2E8507_BC51_81BB_41D7_22A93ECEA5FF.label = APPLE
+panorama_A95C63BB_BC76_80CB_41D7_D4A7B4CD5570.label = DELUX
+panorama_A837D7A8_BC72_80F5_41E1_1B9F4007DD3A.label = PARADISE
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
